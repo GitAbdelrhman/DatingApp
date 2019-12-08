@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DatingApp-SPA",
+    "\\DatingApp-SPA\\src",
+    "\\DatingApp-SPA\\src\\app",
+    "\\DatingApp-SPA\\src\\app\\Home",
+    "\\DatingApp-SPA\\src\\app\\Members\\Member-list",
+    "\\DatingApp-SPA\\src\\app\\Members\\MemberEdit",
+    "\\DatingApp-SPA\\src\\app\\Members\\PhotoEditor",
+    "\\DatingApp-SPA\\src\\app\\register",
+    "\\DatingApp-SPA\\src\\app\\_Guards",
+    "\\DatingApp-SPA\\src\\app\\_Models",
+    "\\DatingApp-SPA\\src\\app\\_Resolvers",
+    "\\DatingApp-SPA\\src\\app\\_Services",
+    "\\DatingApp-SPA\\src\\environments"
+  ],
+  "SelectedNode": "\\DatingApp-SPA\\src\\app\\register\\register.component.ts",
+  "PreviewInSolutionExplorer": false
+}

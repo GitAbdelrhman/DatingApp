@@ -1,0 +1,11 @@
+<div class="container mt-5">
+  <div class="row">
+    <div *ngIf="!registerMode">
+      <button type="button" class="btn btn-primary btn-lg mr-2" (click)="registerToggle()">Register</button>
+      <button type="button" class="btn btn-secondary btn-lg">Learn More</button>
+    </div>
+    <div class="container" *ngIf="registerMode">
+      <app-register [valuesFromHome]="Values" (cancelRegiser)="cancelRegisterMode($event)"></app-register>
+    </div>
+  </div>
+</div>
